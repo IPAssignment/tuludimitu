@@ -1,4 +1,4 @@
-Tuludimitu Primary School Info Shower Website
+Tuludimitu Primary School Info Shower Website\n
 Welcome to the Tuludimitu Primary School Info Shower Website! This project is designed to provide an easy-to-navigate platform to showcase the latest updates, news, and general information about Tuludimitu Primary School.
 -Features
 Home Page: A welcoming interface introducing visitors to the school.
